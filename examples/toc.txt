@@ -1,0 +1,10 @@
+0 21 Chapter I. Algebraic Integers
+1 24 §1. Integrality
+1 36 §2. Ideals
+1 42 §3. Lattices
+1 48 §5. Minkowski Theory
+3 50 §5.1 Notations
+0 119 Chapter II. The Theory Of Valuations
+1 122 §1. The p-Adic Numbers
+1 126 §2. The p—Adic Absolute Value
+1 136 §3. Valuations
